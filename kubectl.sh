@@ -88,7 +88,7 @@ installFile() {
 
 
 set -e
-set -x
+# set -x
 
 
 initArch
